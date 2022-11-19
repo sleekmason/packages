@@ -1,1 +1,1 @@
-This repository contains the i3-gapps debian package built for Lilidog. 
+This repository contains packages for Lilidog use. 
