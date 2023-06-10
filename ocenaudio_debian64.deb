@@ -1,0 +1,184 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/transitional.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="url" content="http://www.ocenaudio.com">
+	<meta name="language" content="Portugues">
+	<meta name="description" content="O ocenaudio é um editor de audio multiplataforma, fácil de usar, rápido e funcional.">
+	<meta name="keywords" content="áudio editor edição espectrograma wav ringtones podcasts mp3">
+	<meta name="reply-to" content="ocenaudio@ocenaudio.com">
+	<meta name="copyright" content="Ocenaudio Team">
+	<meta name="category" content="Audio Editor">
+	<meta name="Robots" content="Index,Follow">
+	<meta name="author" content="Ocenaudio Team">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="publisher" href="https://plus.google.com/114994750557292685223" />
+	<link rev=made href="mailto:webmaster@ocenaudio.com">
+
+	<meta name="viewport" content="width = 900" />
+	<title>ocenaudio</title>
+
+
+	<link href="/style.min.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="/scripts/shadowbox/shadowbox.css" rel="stylesheet" type="text/css" media="screen" />
+	<!--[if IE]>
+		<link rel="stylesheet" type="text/css" href="/style_ie.css" />
+	<![endif]-->
+
+	<!--[if !IE]> -->
+		<link rel="stylesheet" type="text/css" href="/style_notie.css" />
+	<!--<![endif]-->
+
+	<!--[if lt IE 7]>
+		<script defer type="text/javascript" src="/scripts/pngfix.js"></script>
+		<link rel="stylesheet" type="text/css" href="/style_ie6.css" />
+	<![endif]-->
+
+	<script type="text/javascript" src="/scripts/jquery.js"></script>
+	<!--
+	<script type="text/javascript" src="/scripts/shadowbox/shadowbox.js"></script>
+	<script type="text/javascript">
+		Shadowbox.init();
+	</script>
+	-->
+
+
+</head>
+<body>
+	<div id="wrap">
+		<script type="text/javascript" src="/scripts/header.js"></script>
+
+<div class="round" id="header">
+    <div id="language">
+        <a href="/pt/download"><img id="lang_pt" src="/imgs/br.png" alt="Portugues" border="0"/></a>
+        <a href="/en/download"><img id="lang_en" src="/imgs/us.png" alt="English" border="0"/></a>
+    </div>
+	<a href="/"><img id="logoimg" src="/imgs/logo.png" alt="logo" border="0"/></a>
+	<img id="waveformimg" src="/imgs/waveform.png" alt="Waveform" border="0"/>
+	<img id="ocenaudioimg" src="/imgs/ocenaudio.png" alt="ocenaudio" border="0"/>
+</div>
+
+<div id="menu">
+	<ul>
+		<li><a href="/download">Download</a></li>
+		<li><a href="/donate">Contribua</a></li>
+		<li><a href="/feedback">Fale Conosco</a></li>
+		<li><a href="/features">Características</a></li>
+		<li class="active"><a href="/whatis">O que é ocenaudio?</a></li>
+	</ul>
+</div>
+
+
+<div id="donate" class="round white">
+	<div id="donate_text">
+		<h1>O download do ocenaudio já começou</h1>
+		<h2>Agora você pode nos ajudar a melhorá-lo.</h2>
+		<p>Fazendo uma doação você irá ajudar o ocenaudio a continuar crescendo e evoluindo. Sua contribução possibilitará o investimento em correções de bugs, criação de documentação e melhora das versões atuais e futuras do ocenaudio.</p>
+		<p>Muito obrigado pela sua contribuição.</p>
+		<p>Problemas com o download? <a href="/downloads/ocenaudio_debian64.deb?"><strong>Clique aqui</strong></a> para baixar.</p>
+	</div>
+	<div style="width: 100%;">
+		<table style="width: 100%;">
+			<tr>
+				<th align="center"><img src="/imgs/flag_us.png" alt="US Flag" /></th>
+				<th align="center"><img src="/imgs/flag_eu.png" alt="EU Flag" /></th>
+				<th align="center"><img src="/imgs/flag_uk.png" alt="UK Flag" /></th>
+				<th align="center"><img src="/imgs/flag_brazil.png" alt="Brazil Flag" /></th>
+			</tr>
+			<tr>
+				<td align="center">			<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+			<input type="hidden" name="cmd" value="_s-xclick" />
+			<input type="hidden" name="hosted_button_id" value="JPWUPM4T73T66" />
+			<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" onClick="_gaq.push(['_trackEvent','Donation Click USD', 'Click', 'PayPal USD']);"/>
+			<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+			</form>
+			</td>
+				<td align="center">			<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+			<input type="hidden" name="cmd" value="_s-xclick" />
+			<input type="hidden" name="hosted_button_id" value="TJ9QA96X7HAF2" />
+			<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" onClick="_gaq.push(['_trackEvent','Donation Click EUR', 'Click', 'PayPal EUR']);" />
+			<img alt="" border="0" src="https://www.paypal.com/en_DE/i/scr/pixel.gif" width="1" height="1" />
+			</form>
+			</td>
+				<td align="center">			<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+			<input type="hidden" name="cmd" value="_s-xclick" />
+			<input type="hidden" name="hosted_button_id" value="3QL9HN4FDT5CS" />
+			<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" onClick="_gaq.push(['_trackEvent','Donation Click GBP', 'Click', 'PayPal GBP']);" />
+			<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
+			</form>
+			</td>
+				<td align="center">			<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+			<input type="hidden" name="cmd" value="_s-xclick" />
+			<input type="hidden" name="hosted_button_id" value="WUK7NE9HXAEJQ" />
+			<input type="image" src="https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Faça doações com o botão do PayPal" onClick="_gaq.push(['_trackEvent','Donation Click BRL', 'Click', 'PayPal BRL']);" />
+			<img alt="" border="0" src="https://www.paypal.com/pt_BR/i/scr/pixel.gif" width="1" height="1" />
+			</form>
+			</td>
+			</tr>
+		</table>
+		<p align="center" style="font-size: 9px; color: #888;">Clicando aqui você será redirecionado para uma página segura do PayPal onde você poderá fazer a sua doação.</p>
+	</div>
+</div>
+<div id="donate" class="round white">
+	<div id="donate_text">
+		<h2>Ou ainda usando criptomoedas</h2>
+		<p>Agora você pode doar usando criptomoedas, uma maneira rápida e fácil de fazer contribuições.</p>
+		<div>
+			<table style="padding-left: 20px">
+				<tr>
+					<td>
+						<img src="/imgs/eth.png">
+					</td>
+					<td>
+						<table>
+							<tr><td><h4 style="margin: 0">Doar Ethereum</h4></td></tr>
+							<tr><td><h2 style="margin: 0; padding-top: 6px;">ocenaudio.eth</h2></td></tr>
+							<tr><td><h4 style="margin: 0">0x8D04EB821858a12804790Bee7C8D8C025cC27A17</h4></td></tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	function ocenaudio_download(){window.location.href='/downloads/ocenaudio_debian64.deb?';};
+	var download_timer=setTimeout(ocenaudio_download,5000);
+</script>
+<div id="feedback_bar" class="white round text_container">
+	<div id="fb-root"></div>
+	<script>
+	window.fbAsyncInit = function() {
+		FB.init({appId:'317114928445620',xfbml:true,version:'v2.0'});
+		FB.Event.subscribe('xfbml.render',function(){clearTimeout(download_timer); setTimeout(ocenaudio_download,200);});	};
+	(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/sdk.js";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<h2>Você também pode ajudar a divulgar o ocenaudio!</h2>
+	<div id="feedback_internal_bar">
+		<div id="feedback_bar_facebook">
+			<div class="fb-like" data-href="https://facebook.com/ocenaudio" data-width="600" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+		</div>
+	</div>
+</div><script type="text/javascript">
+	window.onLoad=download_timer;
+</script>
+<noscript>
+	<meta http-equiv="refresh" content="2;url=/downloads/ocenaudio_debian64.deb?">
+</noscript>
+	<div id="footer">
+		<p>O time de desenvolvimento do ocenaudio se reserva ao direito de alterar o conteúdo e<br/>
+		formato desta página sempre que julgar necessário.</p>
+		<p>Todos os direitos reservados Copyright© 2015</p>
+	</div>
+
+	</div>
+</body>
+</html>
