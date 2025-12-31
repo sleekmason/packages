@@ -1,2 +1,0 @@
-to have the correct conky transparency when using a toggle for picom or 
-other uses, place conkyrestart into /usr/local/bin.

@@ -1,3 +1,0 @@
-#!/bin/dash
-# Used to get the installed package count
-dpkg --get-selections | wc --lines
